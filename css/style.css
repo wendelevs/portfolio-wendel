@@ -360,3 +360,9 @@ h3.my-profession {
     max-width: 60%;
     background-color: red;
 }
+
+.about .about-content .skills {
+    flex: 0 0 40%;
+    max-width: 40%;
+    background-color: green;
+}
