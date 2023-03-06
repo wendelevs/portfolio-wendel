@@ -754,6 +754,10 @@ h3.my-profession {
         left: -270px;
     }
 
+    .aside.open {
+        left: 0;
+    }
+
     .aside .nav-toggler {
         display: flex;
         left: 30px;
