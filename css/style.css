@@ -831,4 +831,8 @@ h3.my-profession {
         flex: 0 0 100%;
         max-width: 100%;
     }
+    .contact-info-item {
+        flex: 0 0 100%;
+        max-width: 70%;
+    }
 }
