@@ -832,15 +832,3 @@ h3.my-profession {
         max-width: 100%;
     }
 }
-
-@media (max-width:430px) {
-    .about .about-content .personal-info .info-item p {
-        font-size: 12px;
-    }
-}
-
-@media (max-width:350px) {
-    .about .about-content .personal-info .info-item p {
-        font-size: 8px;
-    }
-}
