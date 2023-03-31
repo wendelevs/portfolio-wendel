@@ -838,3 +838,9 @@ h3.my-profession {
         font-size: 12px;
     }
 }
+
+@media (max-width:350px) {
+    .about .about-content .personal-info .info-item p {
+        font-size: 10px;
+    }
+}
