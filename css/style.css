@@ -833,9 +833,9 @@ h3.my-profession {
     }
 }
 
-@media (max-width:530px) {
-    .contact-info-item {
+@media (max-width:520px) {
+    .personal-info {
         flex: 0 0 100%;
-        max-width: 70%;
+        max-width: 100%;
     }
 }
