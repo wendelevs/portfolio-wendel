@@ -834,8 +834,7 @@ h3.my-profession {
 }
 
 @media (max-width:425px) {
-    .about .about-content .personal-info {
-        flex: 0 0 100%;
-        max-width: 80%;
+    .about .about-content .personal-info .info-item p {
+        font-size: 12px;
     }
 }
