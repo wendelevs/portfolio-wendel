@@ -1,7 +1,7 @@
 /* =============== Animação Escrevendo ===============*/
 
 var typed = new Typed(".typing", {
-    strings:["", "Desenvolvedor Web", "Desenvolvedor Front-End"],
+    strings:["", "Desenvolvedor Fullstack", "Engenheiro de Software"],
     typeSpeed:80,
     BackSpeed:80,
     loop:true
